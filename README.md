@@ -3,7 +3,8 @@
 <h3 align="left">About me:</h3>
 
 - I'm currently studying Computer network and Data communication at VNUHCM - University of Information Technology
-- I'm very interested in learning hardware, embedded and a little bit about microchips, although i don't have much knowledge in this field but i'm very willing to learn and study more about them, if u can teach me or help me study this field, please contact me, i'm very thankful
+- I'm very interested in learning network, telecommunication; hardware, embedded, although i don't have much knowledge in this 
+  field but i'm very willing to learn and study more about them, if u can teach me or help me study this field, please contact me, i'm very thankful
 - I really like teamwork because I believe that working in groups will speed up the progress and efficiency of work a lot
 
 <h3 align="left">Languages and Tools:</h3>
