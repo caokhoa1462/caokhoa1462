@@ -3,7 +3,7 @@
 <h3 align="left">About me:</h3>
 
 - I'm currently studying Computer network and Data communication at VNUHCM - University of Information Technology
-- My fields are Mobile Development, Data Engineering, and DevOps.
+- My fields are DevOps and Cloud
 - I really like teamwork because I believe that working in groups will speed up the progress and efficiency of work a lot
 
 <h3 align="left">Languages and Tools:</h3>
