@@ -1,16 +1,12 @@
-<h1 align="center">Hi there wonderful people 👋, I'm Khoa Cao Anh</h1>
+### Hi, I'm Khoa Cao Anh 👋
 
-<h3 align="left">About me:</h3>
+- 🔧 DevOps/DevSecOps Engineer focused on CI/CD security, containerization, and cloud infrastructure
+- 🎓 B.Eng in Computer Network and Communications, University of Information Technology (VNU-HCM)
+- 📜 Preparing for AWS Certified Solutions Architect – Associate (SAA-C03)
+- 💬 Open to Junior/Fresher DevOps opportunities in Ho Chi Minh City
 
-- I'm currently studying Computer network and Data communication at VNUHCM - University of Information Technology
-- My fields are DevOps and Cloud
-- I really like teamwork because I believe that working in groups will speed up the progress and efficiency of work a lot
+### Tools & Technologies
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khoa-cao-anh-5a2728281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khoa-cao-anh-5a2728281" height="30" width="40" /></a>
-<a href="https://fb.com/caokhoa.ne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caokhoa.ne" height="30" width="40" /></a>
-</p>
+### Connect with me
+[LinkedIn](https://linkedin.com/in/caokhoa2903) · [Email](mailto:ryan2932002@gmail.com)
